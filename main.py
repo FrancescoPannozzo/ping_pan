@@ -2,16 +2,28 @@ import subprocess
 import time
 import datetime
 
-hours = input("Inserisci numero di ore di esecuzione del ping:")
-minutes = input("Inserisci numero di minuti di esecuzione del ping:")
+print("Welcome to PING_PAN, a network diagnostic tool by Francesco Pannozzo")
+
+
+hours = 0
+minutes = 0
 seconds = 0
 
-if hours != 0:
-    seconds = int(hours) * 3600
-if minutes != 0:
-    seconds = seconds + (int(minutes) * 60)
+CORRECT_CHOOSE = False
+while not CORRECT_CHOOSE:
+    hours = input("Enter the test duration hours (integer):")
+    minutes = input("Enter the test duration minutes (integer):")
+    seconds = 0
+    try:
+        if hours != 0:
+            seconds = int(hours) * 3600
+        if minutes != 0:
+            seconds = seconds + (int(minutes) * 60)
+        CORRECT_CHOOSE = True
+    except ValueError:
+        print("WARNING, the provided values (or one of them) are not integers, please retry")
 
-print("Avvio test..")
+print("Test starting..")
 start_time = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 # Avvia il comando in background
 process = subprocess.Popen(['ping', '-n', str(seconds), '8.8.8.8'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
@@ -46,4 +58,4 @@ with open(f'ping_output_{start_time}.txt', 'w') as file:
     file.write(output_lines)
     file.write(stdout)
 
-input("premi un qualsiasi tasto per chiudere")
+input("Press any key to continue..")

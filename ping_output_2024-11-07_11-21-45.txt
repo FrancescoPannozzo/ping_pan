@@ -1,0 +1,68 @@
+[2024-11-07 11:21:45] 
+[2024-11-07 11:21:45] Esecuzione di Ping 8.8.8.8 con 32 byte di dati:
+[2024-11-07 11:21:45] Risposta da 8.8.8.8: byte=32 durata=51ms TTL=117
+[2024-11-07 11:21:46] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:47] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:21:48] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:49] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:50] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:51] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:52] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:53] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:21:54] Risposta da 8.8.8.8: byte=32 durata=12ms TTL=117
+[2024-11-07 11:21:55] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:56] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:57] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:21:58] Risposta da 8.8.8.8: byte=32 durata=15ms TTL=117
+[2024-11-07 11:21:59] Risposta da 8.8.8.8: byte=32 durata=15ms TTL=117
+[2024-11-07 11:22:00] Risposta da 8.8.8.8: byte=32 durata=34ms TTL=117
+[2024-11-07 11:22:01] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:02] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:03] Risposta da 8.8.8.8: byte=32 durata=87ms TTL=117
+[2024-11-07 11:22:04] Risposta da 8.8.8.8: byte=32 durata=15ms TTL=117
+[2024-11-07 11:22:05] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:06] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:07] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:08] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:09] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:10] Risposta da 8.8.8.8: byte=32 durata=12ms TTL=117
+[2024-11-07 11:22:11] Risposta da 8.8.8.8: byte=32 durata=15ms TTL=117
+[2024-11-07 11:22:12] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:13] Risposta da 8.8.8.8: byte=32 durata=15ms TTL=117
+[2024-11-07 11:22:14] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:15] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:16] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:17] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:18] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:19] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:20] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:21] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:22] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:23] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:24] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:26] Risposta da 8.8.8.8: byte=32 durata=98ms TTL=117
+[2024-11-07 11:22:26] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:27] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:28] Risposta da 8.8.8.8: byte=32 durata=36ms TTL=117
+[2024-11-07 11:22:29] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:30] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:32] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:33] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:34] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:35] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:36] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:37] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:38] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:39] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:40] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:41] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+[2024-11-07 11:22:42] Risposta da 8.8.8.8: byte=32 durata=16ms TTL=117
+[2024-11-07 11:22:43] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:44] Risposta da 8.8.8.8: byte=32 durata=13ms TTL=117
+[2024-11-07 11:22:45] Risposta da 8.8.8.8: byte=32 durata=14ms TTL=117
+
+Statistiche Ping per 8.8.8.8:
+    Pacchetti: Trasmessi = 60, Ricevuti = 60, 
+    Persi = 0 (0% persi),
+Tempo approssimativo percorsi andata/ritorno in millisecondi:
+    Minimo = 12ms, Massimo =  98ms, Medio =  17ms
